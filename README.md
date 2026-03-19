@@ -63,13 +63,6 @@ This project demonstrates how SQL can be used to analyze business data and gener
 
 ---
 
-## 📁 Project Structure
-
-```
-data/ → contains datasets  
-queries/ → contains SQL queries  
-```
-
 ---
 
 ## 🔗 Author
